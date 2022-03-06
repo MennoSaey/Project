@@ -1,4 +1,4 @@
-package be.thomasmore.party.controllers;
+package be.thomasmore.project.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
